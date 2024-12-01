@@ -14,4 +14,4 @@ function primeNumbers(n, m) {
   }
   return list.join(" ");
 }
-console.log(primeNumbers(-1, 70));
+
